@@ -28,6 +28,7 @@
 
 * **tensorflow detection model zoo:** https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
-* **detectron2:** https://github.com/facebookresearch/detectron2
+* **detectron2:** https://github.com/facebookresearch/detectron2   
+  [[detectron](https://github.com/facebookresearch/Detectron/)]
 
 * **mmdetection:** https://github.com/open-mmlab/mmdetection
