@@ -1,4 +1,4 @@
-# Under Water Detection
+# Underwater Object Detection
 
 
 ### Papers
