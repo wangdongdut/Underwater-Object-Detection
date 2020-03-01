@@ -32,3 +32,5 @@
   [[detectron](https://github.com/facebookresearch/Detectron/)]
 
 * **mmdetection:** https://github.com/open-mmlab/mmdetection
+
+* **darknet/yolo:** https://pjreddie.com/darknet/
