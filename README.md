@@ -27,12 +27,12 @@
   [[paper](https://arxiv.org/abs/1911.03029)] 
   
 * **Water-Net:** Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao. <br />
-  `"An Underwater Image Enhancement Benchmark Dataset and Beyond."` IEEE TIP (2019)
+  `"An Underwater Image Enhancement Benchmark Dataset and Beyond."` IEEE Transactions on Image Processing (2019)
   [[paper](https://arxiv.org/pdf/1901.05495.pdf)] 
   [[project](https://github.com/Li-Chongyi/Water-Net_Code)]
   
 * **WaterGAN:** Jie Li, Katherine A. Skinner, Ryan Eustice, M. Johnson-Roberson. <br />
-  `"WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images."` IEEE RA-L (2017).
+  `"WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images."` IEEE Robotics and Automation Letters (2017).
   [[paper](https://arxiv.org/abs/1702.07392)] 
   [[code](https://github.com/kskin/WaterGAN)]
   
