@@ -6,7 +6,7 @@
 * Risheng Liu, Xin Fan, Ming Zhu, Minjun Hou, Zhongxuan Luog. <br />
   `"Real-world Underwater Enhancement: Challenges, Benchmarks, and Solution."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1901.05320)] 
-  [[code](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
+  [[project](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
   
 * **UWCNN:** Chongyi Li, Saeed Anwar, Fatih Porikli. <br />
   `"Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement."` Pattern Recognition (2020).
