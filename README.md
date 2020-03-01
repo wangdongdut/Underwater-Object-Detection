@@ -4,7 +4,7 @@
 ### Papers
 
 * Risheng Liu, Xin Fan, Ming Zhu, Minjun Hou, Zhongxuan Luo. <br />
-  `"Real-world Underwater Enhancement: Challenges, Benchmarks, and Solution."` ArXiv (2019). :star1:
+  `"Real-world Underwater Enhancement: Challenges, Benchmarks, and Solution."` ArXiv (2019). :star2:
   [[paper](https://arxiv.org/abs/1901.05320)] 
   [[project](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
   
