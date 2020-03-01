@@ -8,6 +8,13 @@
   [[paper](https://arxiv.org/abs/1901.05320)] 
   [[code](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
   
+* **UWCNN:** Chongyi Li, Saeed Anwar, Fatih Porikli. <br />
+  `"Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement."` PR (2020).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)] 
+  [[code](https://github.com/saeed-anwar/UWCNN)]    
+  
+  Chongyi Li, Saeed Anwar, Fatih Porikli, "Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement", Pattern Recognition, 2019. [arxiv].
+  
 * **UWGAN:** Nan Wang, Yabin Zhou, Fenglei Han, Haitao Zhu, Yaojing Zheng. <br />
   `"UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10269)] 
