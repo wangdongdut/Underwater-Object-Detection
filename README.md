@@ -27,7 +27,7 @@
   [[paper](https://arxiv.org/abs/1911.03029)] 
   
 * **WaterGAN:** Jie Li, Katherine A. Skinner, Ryan Eustice, M. Johnson-Roberson. <br />
-  `"WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images."` RA-L (2017).
+  `"WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images."` IEEE RA-L (2017).
   [[paper](https://arxiv.org/abs/1702.07392)] 
   [[code](https://github.com/kskin/WaterGAN)]   
   
