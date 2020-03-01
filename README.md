@@ -29,7 +29,20 @@
 * **WaterGAN:** Jie Li, Katherine A. Skinner, Ryan Eustice, M. Johnson-Roberson. <br />
   `"WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images."` IEEE RA-L (2017).
   [[paper](https://arxiv.org/abs/1702.07392)] 
-  [[code](https://github.com/kskin/WaterGAN)]   
+  [[code](https://github.com/kskin/WaterGAN)]
+  
+  
+### Benchmarks & Surverys
+
+* **UIEB:** Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao. <br />
+  `"An Underwater Image Enhancement Benchmark Dataset and Beyond."` IEEE TIP (2019
+  [[paper](https://arxiv.org/pdf/1901.05495.pdf)] 
+  [[project](https://li-chongyi.github.io/proj_benchmark.html)]
+  
+* Risheng Liu, Xin Fan, Ming Zhu, Minjun Hou, Zhongxuan Luog. <br />
+  `"Real-world Underwater Enhancement: Challenges, Benchmarks, and Solution."` ArXiv (2019).
+  [[paper](https://arxiv.org/abs/1901.05320)] 
+  [[project](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
   
 ### Related Resources
 
