@@ -47,6 +47,8 @@
   
 ### Related Resources
 
+* **some underwater datasets:** https://github.com/xahidbuffon/underwater_datasets
+
 * **tensorflow detection model zoo:** https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 * **detectron2:** https://github.com/facebookresearch/detectron2   
