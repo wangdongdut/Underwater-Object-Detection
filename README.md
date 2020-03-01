@@ -8,7 +8,7 @@
   [[paper](https://arxiv.org/abs/1911.03029)] 
   
 *  Hongbo Yang, Ping Liu, YuZhen Hu, JingNan Fu. <br />
-  `"Research on underwater object recognition based on YOLOv3."` Microsystem Technologies (2020). 
+  `"Research on Underwater Object Recognition Based on YOLOv3."` Microsystem Technologies (2020). 
   [[paper](https://link.springer.com/article/10.1007/s00542-019-04694-8)] 
   
 * **UWCNN:** Chongyi Li, Saeed Anwar, Fatih Porikli. <br />
