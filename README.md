@@ -25,3 +25,5 @@
 
 
 ### Related Resources
+
+* **mmdetection:** https://github.com/open-mmlab/mmdetection
