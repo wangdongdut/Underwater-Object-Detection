@@ -13,8 +13,6 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)] 
   [[code](https://github.com/saeed-anwar/UWCNN)]    
   
-  Chongyi Li, Saeed Anwar, Fatih Porikli, "Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement", Pattern Recognition, 2019. [arxiv].
-  
 * **UWGAN:** Nan Wang, Yabin Zhou, Fenglei Han, Haitao Zhu, Yaojing Zheng. <br />
   `"UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10269)] 
@@ -29,8 +27,6 @@
   [[paper](https://arxiv.org/abs/1702.07392)] 
   [[code](https://github.com/kskin/WaterGAN)]   
   
-
-
 ### Related Resources
 
 * **tensorflow detection model zoo:** https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
