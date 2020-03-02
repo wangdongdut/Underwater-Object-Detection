@@ -47,14 +47,14 @@
   
 ### 中文文献
 
-* 徐凤强，董鹏，王辉兵，付先平. <br /> 
-  `"基于水下机器人的海产品智能检测与自主抓取系统."` 北京航空航天大学学报 (2019)
-  [[论文](http://new.gb.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=BJHK201912006&uid=WEEvREcwSlJHSldRa1FhdXNzY2Z1Ulltc09XLytQeVJDRVUwUGxSNXkxRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTIwMjIxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlpPWnRGeXprVUx6UEp5ZkRaYkc0SDlqTnJZOUZZb1I4ZVg=)] 
-
 * 朱世伟，杭仁龙，刘青山. <br /> 
   `"基于类加权YOLO网络的水下目标检测."` 南京师大学报(自然科学版) (2020)
   [[论文](http://new.gb.oversea.cnki.net/KCMS/detail/32.1239.n.20200207.2118.002.html?uid=WEEvREcwSlJHSldRa1FhdXNzY2Z1Ulltc09XLytQeVJDRVUwUGxSNXkxRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=Mjg3MjErWnNGaXZsVjc3TEkxND1LeWZZYUxHNEhOSE1yWTlDWk9zT1l3OU16bVJuNmo1N1QzZmxxV00wQ0xMN1I3cWRa)] 
 
+* 徐凤强，董鹏，王辉兵，付先平. <br /> 
+  `"基于水下机器人的海产品智能检测与自主抓取系统."` 北京航空航天大学学报 (2019)
+  [[论文](http://new.gb.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=BJHK201912006&uid=WEEvREcwSlJHSldRa1FhdXNzY2Z1Ulltc09XLytQeVJDRVUwUGxSNXkxRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTIwMjIxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlpPWnRGeXprVUx6UEp5ZkRaYkc0SDlqTnJZOUZZb1I4ZVg=)] 
+  
   
 ### Related Resources
 
