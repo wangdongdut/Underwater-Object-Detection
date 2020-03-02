@@ -47,8 +47,7 @@
   
 ### 中文文献
 
-* 徐凤强，董鹏，王辉兵，付先平. <br />
-  `"基于类加权YOLO网络的水下目标检测."` 北京航空航天大学学报 (2019)
+* 徐凤强，董鹏，王辉兵，付先平. <br /> `"基于类加权YOLO网络的水下目标检测."` 北京航空航天大学学报 (2019)
   [[论文](http://new.gb.oversea.cnki.net/KCMS/detail/32.1239.n.20200207.2118.002.html?uid=WEEvREcwSlJHSldRa1FhdXNzY2Z1Ulltc09XLytQeVJDRVUwUGxSNXkxRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=Mjg3MjErWnNGaXZsVjc3TEkxND1LeWZZYUxHNEhOSE1yWTlDWk9zT1l3OU16bVJuNmo1N1QzZmxxV00wQ0xMN1I3cWRa)] 
 
 
