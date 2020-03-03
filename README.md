@@ -6,6 +6,7 @@
 * **RoIMix:** Wei-Hong Lin, Jia-Xing Zhong, Shan Liu, Thomas Li, Ge Li. <br />
   `"RoIMix: Proposal-Fusion among Multiple Images for Underwater Object Detection."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1911.03029)] 
+  [[知乎](https://zhuanlan.zhihu.com/p/100398417)] 
   
 *  Hongbo Yang, Ping Liu, YuZhen Hu, JingNan Fu. <br />
   `"Research on Underwater Object Recognition Based on YOLOv3."` Microsystem Technologies (2020). 
