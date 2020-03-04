@@ -21,6 +21,11 @@
   `"UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10269)] 
   [[code](https://github.com/infrontofme/UWGAN_UIE)]  
+  
+ * **UWStereoNet:** Katherine A. Skinner, Junming Zhang, Elizabeth A. Olson, Matthew Johnson-Roberson. <br />
+  `"UWStereoNet: Unsupervised Learning for Depth Estimation and Color Correction of Underwater Stereo Imagery."` ICRA (2019).
+  [[paper](https://ieeexplore.ieee.org/document/8794272)] 
+  [[code](https://github.com/junming259/UWStereoNet_disparity)]`Only for Disparity`   
 
 * **Water-Net:** Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao. <br />
   `"An Underwater Image Enhancement Benchmark Dataset and Beyond."` IEEE Transactions on Image Processing (2019)
