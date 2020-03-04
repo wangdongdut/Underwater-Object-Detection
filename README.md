@@ -59,6 +59,8 @@
   
 ### Related Resources
 
+* **水下目标检测竞赛介绍(光学):** https://github.com/xahidbuffon/underwater_datasets
+
 * **some underwater datasets:** https://github.com/xahidbuffon/underwater_datasets
 
 * **tensorflow detection model zoo:** https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
