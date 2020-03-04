@@ -45,6 +45,10 @@
   [[paper](https://arxiv.org/pdf/1901.05495.pdf)] 
   [[project](https://li-chongyi.github.io/proj_benchmark.html)]
   
+  * Saeed Anwar, Chongyi Li, Fatih Porikli. <br />
+  `"Deep Underwater Image Enhancement."` ArXiv (2018).
+  [[paper](https://arxiv.org/abs/1807.03528)] 
+  
   
 ### 中文文献
 
