@@ -49,6 +49,11 @@
   `"Deep Underwater Image Enhancement."` ArXiv (2018).
   [[paper](https://arxiv.org/abs/1807.03528)] 
   
+* Min Han, Zhiyu Lyu, Tie Qiu, Meiling Xu. <br />
+  `"A Review on Intelligence Dehazing and Color Restoration for Underwater Images."` 
+  IEEE Transactions on Systems, Man, and Cybernetics: Systems (2018).
+  [[paper](https://ieeexplore.ieee.org/document/8267119)]   
+  
   
 ### 中文文献
 
