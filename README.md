@@ -59,7 +59,8 @@
   
 ### Related Resources
 
-* **水下目标检测竞赛介绍(光学):** https://github.com/xahidbuffon/underwater_datasets
+* **水下目标检测竞赛介绍(光学)202003**
+  [[Slides](https://github.com/wangdongdut/Underwater-Object-Detection/blob/master/%E6%B0%B4%E4%B8%8B%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AB%9E%E8%B5%9B%E4%BB%8B%E7%BB%8D(%E5%85%89%E5%AD%A6)-202003.pdf)] 
 
 * **some underwater datasets:** https://github.com/xahidbuffon/underwater_datasets
 
