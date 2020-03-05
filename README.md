@@ -48,6 +48,10 @@
   `"Real-world Underwater Enhancement: Challenges, Benchmarks, and Solution."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1901.05320)] 
   [[project](https://github.com/dlut-dimt/Underwater-image-enhancement-algorithms)]  
+ 
+* **UDD:** Zhihui Wang, Chongwei Liu, Shijie Wang, Tao Tang, Yulong Tao, Caifei Yang, Haojie Li, Xing Liu, Xin Fan. <br />
+  `"An Underwater Open-sea Farm Object Detection Dataset for Underwater Robot Picking."`
+   [[paper](https://arxiv.org/pdf/2003.01446)] 
 
 * **UIEB:** Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao. <br />
   `"An Underwater Image Enhancement Benchmark Dataset and Beyond."` IEEE TIP (2019)
