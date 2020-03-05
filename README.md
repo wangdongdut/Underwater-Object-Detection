@@ -21,6 +21,11 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)] 
   [[code](https://github.com/saeed-anwar/UWCNN)]    
   
+ * Yan Wang, Wei Song, Giancarlo Fortino, Li-Zhe Qi, Wenqiang Zhang, Antonio Liotta. <br />
+  `"An Experimental-Based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging."` IEEE Access (2019).
+  [[paper](https://ieeexplore.ieee.org/document/8782094)] 
+  [[code](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration)]      
+  
 * **UWGAN:** Nan Wang, Yabin Zhou, Fenglei Han, Haitao Zhu, Yaojing Zheng. <br />
   `"UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10269)] 
