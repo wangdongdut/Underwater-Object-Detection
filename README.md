@@ -86,3 +86,5 @@
 * **mmdetection:** https://github.com/open-mmlab/mmdetection
 
 * **darknet/yolo:** https://pjreddie.com/darknet/
+
+* **awesome-object-detection:** https://github.com/amusi/awesome-object-detection
