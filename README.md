@@ -93,3 +93,7 @@
 * **darknet/yolo:** https://pjreddie.com/darknet/
 
 * **awesome-object-detection:** https://github.com/amusi/awesome-object-detection
+
+* **Object Detection in 20 Years: A Survey:** Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye. <br /> 
+  `"Object Detection in 20 Years: A Survey."` ArXiv (2019).
+  [[paper](https://arxiv.org/abs/1905.05055)]  
