@@ -59,6 +59,9 @@
   IEEE Transactions on Systems, Man, and Cybernetics: Systems (2018).
   [[paper](https://ieeexplore.ieee.org/document/8267119)]   
   
+* **UPRC2018:** [download](https://li-chongyi.github.io/proj_benchmark.html)]. <br />
+  `This dataset is for the URPC2018 challenge (http://2018.cnurpc.org/) and is for research purpose only.` 
+  
   
 ### 中文文献
 
