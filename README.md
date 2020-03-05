@@ -26,6 +26,11 @@
   [[paper](https://arxiv.org/abs/1912.10269)] 
   [[code](https://github.com/infrontofme/UWGAN_UIE)]  
   
+ * **AIO:** Pritish Uplavikar, Zhenyu Wu, Zhangyang Wang. <br /> 
+   `"All-In-One Underwater Image Enhancement using Domain-Adversarial Learning."` CVPRW (2019).
+   [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/html/UG2_Prize_Challenge/Uplavikar_All-in-One_Underwater_Image_Enhancement_Using_Domain-Adversarial_Learning_CVPRW_2019_paper.html)]
+   [[code](https://github.com/TAMU-VITA/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning)]  
+  
  * **UWStereoNet:** Katherine A. Skinner, Junming Zhang, Elizabeth A. Olson, Matthew Johnson-Roberson. <br />
   `"UWStereoNet: Unsupervised Learning for Depth Estimation and Color Correction of Underwater Stereo Imagery."` ICRA (2019).
   [[paper](https://ieeexplore.ieee.org/document/8794272)] 
