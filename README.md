@@ -114,6 +114,7 @@
   [[detectron](https://github.com/facebookresearch/Detectron/)]
 
 * **mmdetection:** https://github.com/open-mmlab/mmdetection
+  [[model zoo](https://github.com/open-mmlab/mmdetection/blob/master/docs/MODEL_ZOO.md)]
 
 * **darknet/yolo:** https://pjreddie.com/darknet/
 
