@@ -19,7 +19,11 @@
 * **UWCNN:** Chongyi Li, Saeed Anwar, Fatih Porikli. <br />
   `"Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement."` Pattern Recognition (2020).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401)] 
-  [[code](https://github.com/saeed-anwar/UWCNN)]         
+  [[code](https://github.com/saeed-anwar/UWCNN)]   
+  
+* Yuan Zhou, Kangming Yan. <br />
+  `"Domain Adaptive Adversarial Learning Based on Physics Model Feedback for Underwater Image Enhancement."` ArXiv (2020). 
+  [[paper](https://arxiv.org/abs/2002.09315)]   
   
 * **UWGAN:** Nan Wang, Yabin Zhou, Fenglei Han, Haitao Zhu, Yaojing Zheng. <br />
   `"UWGAN: Underwater GAN for Real-world Underwater Color Restoration and Dehazing."` ArXiv (2019).
