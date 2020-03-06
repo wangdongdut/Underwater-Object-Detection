@@ -136,3 +136,6 @@
 * Zhi Zhang, Tong He, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li. <br /> 
   `"Bag of Freebies for Training Object Detection Neural Networks."` 
   ArXiv (2019). [[paper](https://arxiv.org/abs/1902.04103)]:star2:
+  
+* **About Anchor-free Object Detection:**
+  [[物体检测的轮回: anchor-based 与 anchor-free](https://zhuanlan.zhihu.com/p/62372897)]
