@@ -140,3 +140,5 @@
 * **About Anchor-free Object Detection:** <br /> 
   [[AnchorFreeDetectionList](https://github.com/VCBE123/AnchorFreeDetection)] <br /> 
   [[物体检测的轮回: anchor-based 与 anchor-free](https://zhuanlan.zhihu.com/p/62372897)]
+  
+* **TensorRT:** https://developer.nvidia.com/tensorrt
