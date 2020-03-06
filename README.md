@@ -129,7 +129,7 @@
 
 * Li Liu, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, Matti Pietikäinen. <br /> 
   `"Deep Learning for Generic Object Detection: A Survey."` 
-  International Journal of Computer Vision (2019).
+  IJCV (2019).
   [[paper](https://link.springer.com/article/10.1007/s11263-019-01247-4)]:star2:
   
 * Zhi Zhang, Tong He, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li. <br /> 
