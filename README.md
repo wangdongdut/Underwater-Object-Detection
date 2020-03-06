@@ -120,17 +120,15 @@
 
 * **awesome-object-detection:** https://github.com/amusi/awesome-object-detection
 
-* **Object Detection in 20 Years: A Survey:** Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye. <br /> 
+* Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye. <br /> 
   `"Object Detection in 20 Years: A Survey."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1905.05055)]  
 
-* **Deep Learning for Generic Object Detection: A Survey:** 
-  Li Liu, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, Matti Pietikäinen. <br /> 
+* Li Liu, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, Matti Pietikäinen. <br /> 
   `"Deep Learning for Generic Object Detection: A Survey."` 
   International Journal of Computer Vision (2019).
   [[paper](https://link.springer.com/article/10.1007/s11263-019-01247-4)]
   
-* **Bag of Freebies for Training Object Detection Neural Networks:** 
-  Zhi Zhang, Tong He, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li. <br /> 
+* Zhi Zhang, Tong He, Hang Zhang, Zhongyue Zhang, Junyuan Xie, Mu Li. <br /> 
   `"Bag of Freebies for Training Object Detection Neural Networks."` 
   ArXiv (2019). [[paper](https://arxiv.org/abs/1902.04103)]
