@@ -97,7 +97,7 @@
   `"基于水下机器人的海产品智能检测与自主抓取系统."` 北京航空航天大学学报 (2019)
   [[论文](http://new.gb.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=BJHK201912006&uid=WEEvREcwSlJHSldRa1FhdXNzY2Z1Ulltc09XLytQeVJDRVUwUGxSNXkxRT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTIwMjIxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZlpPWnRGeXprVUx6UEp5ZkRaYkc0SDlqTnJZOUZZb1I4ZVg=)] 
   
-* 刘有用，张江梅，王坤朋，冯兴华，杨秀洪.  <br />  
+* 刘有用，张江梅，王坤朋，冯兴华，杨秀洪.  
   `"不平衡数据集下的水下目标快速识别方法."` 计算机工程与应用 (2019)
    [[论文](http://kns.cnki.net/KCMS/detail/11.2127.TP.20190719.1443.018.html)]
   
