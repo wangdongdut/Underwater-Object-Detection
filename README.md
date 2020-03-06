@@ -112,6 +112,7 @@
 
 * **detectron2:** https://github.com/facebookresearch/detectron2   
   [[detectron](https://github.com/facebookresearch/Detectron/)]
+  [[maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)]
 
 * **mmdetection:** https://github.com/open-mmlab/mmdetection <br />
   [[model zoo](https://github.com/open-mmlab/mmdetection/blob/master/docs/MODEL_ZOO.md)]
