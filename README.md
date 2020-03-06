@@ -115,7 +115,10 @@
 
 * **mmdetection:** https://github.com/open-mmlab/mmdetection <br />
   [[model zoo](https://github.com/open-mmlab/mmdetection/blob/master/docs/MODEL_ZOO.md)]
-
+  
+* **simpledet:** https://github.com/TuSimple/simpledet <br />
+  [[model zoo](https://github.com/TuSimple/simpledet/blob/master/MODEL_ZOO.md)]
+  
 * **darknet/yolo:** https://pjreddie.com/darknet/
 
 * **awesome-object-detection:** https://github.com/amusi/awesome-object-detection
