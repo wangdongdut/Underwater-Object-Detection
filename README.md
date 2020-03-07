@@ -108,7 +108,8 @@
 
 * **some underwater datasets:** https://github.com/xahidbuffon/underwater_datasets
 
-* **detectron2:** https://github.com/facebookresearch/detectron2   
+* **detectron2:** https://github.com/facebookresearch/detectron2 
+  [[model zoo](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)]
   [[detectron](https://github.com/facebookresearch/Detectron/)]
   [[maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)]
 
