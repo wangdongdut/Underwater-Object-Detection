@@ -12,6 +12,10 @@
   [[paper](https://arxiv.org/abs/1911.03029)] 
   [[知乎](https://zhuanlan.zhihu.com/p/100398417)] 
   
+* Xingyu Chen, Zhengxing Wu, Junzhi Yu, Li Wen. <br />  
+  `"Rethinking Temporal Object Detection from Robotic Perspectives."` ArXiv (2019).
+  [[paper](https://arxiv.org/abs/1912.10406)] 
+  
 *  Hongbo Yang, Ping Liu, YuZhen Hu, JingNan Fu. <br />
   `"Research on Underwater Object Recognition Based on YOLOv3."` Microsystem Technologies (2020). 
   [[paper](https://link.springer.com/article/10.1007/s00542-019-04694-8)] 
