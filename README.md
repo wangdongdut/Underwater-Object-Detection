@@ -12,7 +12,7 @@
   [[paper](https://arxiv.org/abs/1911.03029)] 
   [[知乎](https://zhuanlan.zhihu.com/p/100398417)] 
   
-* Xingyu Chen, Zhengxing Wu, Junzhi Yu, Li Wen. <br />  
+* Xingyu Chen, Zhengxing Wu, Junzhi Yu, Li Wen.
   `"Rethinking Temporal Object Detection from Robotic Perspectives."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10406)] 
   
