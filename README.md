@@ -17,12 +17,24 @@
   [[paper](https://arxiv.org/abs/1912.10406)] 
   
 * Hong Liu, Pinhao Song, Runwei Ding. <br />
-  `"WQT and DG-YOLO: towards domain generalization in underwater object detection."` ArXiv (2020).
+  `"WQT and DG-YOLO: Towards Domain Generalization in Underwater Object Detection."` ArXiv (2020).
   [[paper](https://arxiv.org/abs/2004.06333)]   
   
 *  Hongbo Yang, Ping Liu, YuZhen Hu, JingNan Fu. <br />
   `"Research on Underwater Object Recognition Based on YOLOv3."` Microsystem Technologies (2020). 
   [[paper](https://link.springer.com/article/10.1007/s00542-019-04694-8)] 
+  
+* Hui Li, Xi Yang, ZhenMing Li, TianLun Zhang. <br />
+  `"Underwater image enhancement with Image Colorfulness Measure."` ArXiv (2020). 
+  [[paper](https://arxiv.org/abs/2004.08609)]   
+  
+* Sen Lin, Kaichen Chi. <br />
+  `"Underwater Image Enhancement Based on Structure-Texture Reconstruction."` ArXiv (2020). 
+  [[paper](https://arxiv.org/abs/2004.05430)]   
+
+* Monika Roznere, Alberto Quattrini Li. <br />
+  `"Real-time Model-based Image Color Correction for Underwater Robots."` ArXiv (2020). 
+  [[paper](https://arxiv.org/abs/1904.06437)]     
   
 * **UWCNN:** Chongyi Li, Saeed Anwar, Fatih Porikli. <br />
   `"Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement."` Pattern Recognition (2020).
