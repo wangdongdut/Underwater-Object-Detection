@@ -16,6 +16,10 @@
   `"Rethinking Temporal Object Detection from Robotic Perspectives."` ArXiv (2019).
   [[paper](https://arxiv.org/abs/1912.10406)] 
   
+* Hong Liu, Pinhao Song, Runwei Ding. <br />
+  `"WQT and DG-YOLO: towards domain generalization in underwater object detection."` ArXiv (2020).
+  [[paper](https://arxiv.org/abs/2004.06333)]   
+  
 *  Hongbo Yang, Ping Liu, YuZhen Hu, JingNan Fu. <br />
   `"Research on Underwater Object Recognition Based on YOLOv3."` Microsystem Technologies (2020). 
   [[paper](https://link.springer.com/article/10.1007/s00542-019-04694-8)] 
