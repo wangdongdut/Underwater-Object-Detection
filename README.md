@@ -91,6 +91,10 @@
   [[paper](https://arxiv.org/pdf/1901.05495.pdf)] 
   [[project](https://li-chongyi.github.io/proj_benchmark.html)]
   
+* **OUC:** Long Chen, Lei Tong, Feixiang Zhou, Zheheng Jiang, Zhenyang Li, Jialin Lv, Junyu Dong, Huiyu Zhou. <br /> 
+  `"A Benchmark Dataset for both Underwater Image Enhancement and Underwater Object Detection."` ArXiv (2020).  
+  [[paper](https://arxiv.org/abs/2006.15789)] 
+  
 * Yan Wang, Wei Song, Giancarlo Fortino, Li-Zhe Qi, Wenqiang Zhang, Antonio Liotta. <br />
   `"An Experimental-Based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging."` IEEE Access (2019).
   [[paper](https://ieeexplore.ieee.org/document/8782094)] 
