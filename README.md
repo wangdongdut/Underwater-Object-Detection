@@ -6,6 +6,10 @@
   * **Reveal of Domain Effect:** Xingyu Chen, Yue Lu, Zhengxing Wu, Junzhi Yu, Li Wen. <br />
   `"Reveal of Domain Effect: How Visual Restoration Contributes to Object Detection in Aquatic Scenes."`  ArXiv (2020).
   [[paper](https://arxiv.org/abs/2003.01913)] **Very Interesting Insights on Image Restoration and Object Detection!!**:star2: 
+    
+  * **SWIPENet+IMA:** Long Chen, Zhihua Liu, Lei Tong, Zheheng Jiang, Shengke Wang, Junyu Dong, Huiyu Zhou. <br />
+  `"Underwater Object Detection using Invert Multi-Class Adaboost with Deep Learning."` ArXiv (2020).
+   [[paper](https://arxiv.org/abs/2005.11552)] 
   
 * **RoIMix:** Wei-Hong Lin, Jia-Xing Zhong, Shan Liu, Thomas Li, Ge Li. <br />
   `"RoIMix: Proposal-Fusion among Multiple Images for Underwater Object Detection."` ArXiv (2019).
