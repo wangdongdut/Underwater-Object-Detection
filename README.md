@@ -128,19 +128,7 @@
   `"不平衡数据集下的水下目标快速识别方法."` 计算机工程与应用 (2019)
    [[论文](http://kns.cnki.net/KCMS/detail/11.2127.TP.20190719.1443.018.html)]
   
-### Related Codes:  
-  
-* https://github.com/milleniums/underwater-object-detection-mmdetection
 
-* https://github.com/DataXujing/EfficientDet_pytorch
-
-* https://github.com/sankin97/Underwater_detection
-
-* https://github.com/zhengye1995/underwater-object-detection
-
-* https://github.com/Wakinguup/Underwater_detection
-  
-  
 ### Related Resources
 
 * **水下目标检测竞赛介绍(光学)202003**
@@ -185,3 +173,15 @@
 * **TensorRT:** https://developer.nvidia.com/tensorrt
 
 * **TVM:** https://tvm.apache.org/
+
+### Related Codes:  
+  
+* https://github.com/milleniums/underwater-object-detection-mmdetection
+
+* https://github.com/DataXujing/EfficientDet_pytorch
+
+* https://github.com/sankin97/Underwater_detection
+
+* https://github.com/zhengye1995/underwater-object-detection
+
+* https://github.com/Wakinguup/Underwater_detection
