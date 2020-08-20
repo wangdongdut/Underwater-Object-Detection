@@ -109,10 +109,6 @@
   IEEE Transactions on Systems, Man, and Cybernetics: Systems (2018).
   [[paper](https://ieeexplore.ieee.org/document/8267119)]   
   
-* **URPC2018:** 
-[[download from DUT Pan](http://pan.dlut.edu.cn/share?id=3nxxp5s6amxz)] <br />
-  `This dataset is for the URPC2018 challenge (http://2018.cnurpc.org/) and is for research purpose only.` 
-  
   
 ### 中文文献
 
