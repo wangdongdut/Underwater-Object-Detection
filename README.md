@@ -183,3 +183,6 @@
 * https://github.com/zhengye1995/underwater-object-detection
 
 * https://github.com/Wakinguup/Underwater_detection
+
+### Detection Reports:  
+* 目标检测的过去、现在与将来[俞刚-深蓝学院公开课]：https://www.bilibili.com/video/BV1154y1v7BZ?from=search&seid=11991442565688432154
