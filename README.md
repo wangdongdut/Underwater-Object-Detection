@@ -190,3 +190,5 @@
 * [**视觉目标检测年度进展概述**[VALSE 2020 APR-叶齐祥]](https://www.bilibili.com/video/BV19V411z7L3?from=search&seid=12691654838979826409)：https://www.bilibili.com/video/BV19V411z7L3?from=search&seid=12691654838979826409
 
 * [**深度目标检测**[Valse Webinar 20200429]](https://www.bilibili.com/video/BV1kt4y1y7E3?from=search&seid=12410496426535668823)：https://www.bilibili.com/video/BV1kt4y1y7E3?from=search&seid=12410496426535668823
+
+* [**基于深度学习的目标检测技术**[深度学习大讲堂]](https://www.bilibili.com/video/BV1JW411n7cP)：https://www.bilibili.com/video/BV1JW411n7cP
