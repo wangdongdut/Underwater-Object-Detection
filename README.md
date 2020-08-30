@@ -186,3 +186,5 @@
 
 ### Detection Reports:  
 * [目标检测的过去、现在与将来[俞刚-深蓝学院公开课]](https://www.bilibili.com/video/BV1154y1v7BZ?from=search&seid=11991442565688432154)：https://www.bilibili.com/video/BV1154y1v7BZ?from=search&seid=11991442565688432154
+
+* [VALSE 2020 APR-叶齐祥《视觉目标检测年度进展概述》](https://www.bilibili.com/video/BV19V411z7L3?from=search&seid=12691654838979826409)：https://www.bilibili.com/video/BV19V411z7L3?from=search&seid=12691654838979826409
