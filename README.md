@@ -191,4 +191,6 @@
 
 * [**深度目标检测**[Valse Webinar 20200429]](https://www.bilibili.com/video/BV1kt4y1y7E3?from=search&seid=12410496426535668823)：https://www.bilibili.com/video/BV1kt4y1y7E3?from=search&seid=12410496426535668823
 
-* [**基于深度学习的目标检测技术**[深度学习大讲堂]](https://www.bilibili.com/video/BV1JW411n7cP)：https://www.bilibili.com/video/BV1JW411n7cP
+* [**基于深度学习的目标检测技术**[深度学习大讲堂]](https://www.bilibili.com/video/BV1JW411n7cP)：https://www.bilibili.com/video/BV1JW411n7cP 
+
+* [**Detection and Segmentation**[Stanford University CS231n]](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=11): https://www.youtube.com/watch?v=nDPWywWRIRo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=11
