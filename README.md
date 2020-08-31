@@ -194,3 +194,7 @@
 * [**基于深度学习的目标检测技术**[深度学习大讲堂]](https://www.bilibili.com/video/BV1JW411n7cP)：https://www.bilibili.com/video/BV1JW411n7cP 
 
 * [**Detection and Segmentation**[Stanford University CS231n]](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=11): https://www.youtube.com/watch?v=nDPWywWRIRo&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=11
+
+* [**比赛经验**]
+  * 天池CV赛事老司机，手把手带你入门目标检测赛题[Video](https://www.bilibili.com/video/BV1T54y197Xt?from=search&seid=13601651463352031714)[blog](https://blog.csdn.net/qq_40662074/article/details/104975300)
+  * Kaggle实战目标检测奇淫技巧合集[blog](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487104&idx=1&sn=a41a6e37be1e169b316d67765d2d9eae&chksm=96f37cd4a184f5c2abb99b5e050642df5e82f172beb19a06c562b91b610f9ed624eb46a2ec81&mpshare=1&scene=23&srcid=#rd)
