@@ -199,7 +199,7 @@
 ### 比赛相关:  
 
 * **Old Data**
-  [下载地址(https://pan.baidu.com/s/1puJ0BRvoTTaPjk4_KzhEKw)][0hct]
+  [[下载地址](https://pan.baidu.com/s/1puJ0BRvoTTaPjk4_KzhEKw)(0hct)]
 
 * **比赛经验**
   * `天池CV赛事老司机，手把手带你入门目标检测赛题`[[Video](https://www.bilibili.com/video/BV1T54y197Xt?from=search&seid=13601651463352031714)][[blog](https://blog.csdn.net/qq_40662074/article/details/104975300)]
